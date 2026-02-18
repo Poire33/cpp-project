@@ -1,3 +1,2 @@
-# C++ Project
+# C++ Project - Rupert Claisse
 
-# Rupert Claisse
