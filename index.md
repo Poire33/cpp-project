@@ -1,5 +1,4 @@
-# C++ Project
-# Rupert Claisse
+# C++ A* Algorithm Project - Rupert Claisse
 
 ## Structure
 
